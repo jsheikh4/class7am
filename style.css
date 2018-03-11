@@ -1,0 +1,141 @@
+/* CSS Document */
+body
+{
+margin:auto;
+background-color:#224477;
+font-size:14px;
+font-family:tmes new roman, Arial, Helvetica, sans-serif;
+}
+
+#wrapper
+{
+
+width:1024px;
+margin:auto;
+}
+
+#header
+{
+margin:10px 0 0 0;
+background-color:#224477;
+height:115px;
+}
+#header ul li
+{
+display:inline;
+list-style:none;
+}
+
+.button{
+background-color: #000000;
+color: white;
+padding: 15px 32px;
+text-align: ;
+font-size: 16px;
+
+
+}
+
+#header ul li a
+{
+
+text-decoration:none;
+padding:5px 20px 0 40px;
+float:left;
+color:blue;
+}
+
+#header ul li a:hover
+{
+	color:#224477;
+	display:block;
+}
+
+#header h1
+{font-size:36px;
+font-family:Times New Roman, Arial, Helvetica, sans-serif;
+color:blue;
+padding:25px 0 0 0;
+text-align:center;
+
+}
+
+.menu
+{
+background-color:#00000;
+height:30px;
+margin:3px 0 0 0;
+}
+
+.menu ul li
+{
+display:inline;
+list-style:none;
+}
+
+.menu ul li strong
+{
+color:#FFFFFF;
+}
+
+.menu ul li a
+{
+
+text-decoration:none;
+padding:5px 20px 0 40px;
+float:left;
+color:#FFFFFF;
+}
+
+.menu ul li a:hover
+{
+	color:#8e9a02;
+	display:block;
+}
+
+.main
+{
+background-color:#224477;
+height:400px;
+margin:3px 0 0 0;
+}
+
+.footer
+{
+height:75px;
+background-color:grey;
+}
+
+.footer h3
+{
+text-align:center;
+text-decoration:none;
+padding:30px 20px 0 0;
+}
+
+
+form h2{
+text-align:center;
+text-shadow:2px 2px 2px #cfcfcf
+}
+
+
+
+.error{
+color:red
+}
+.radio{
+width:15px;
+height:15px;
+border-radius:1px;
+margin-top:10px;
+padding:5px;
+border:none;
+margin-bottom:20px
+}
+
+form table td
+{
+text-align:justify;
+}
+
